@@ -1,16 +1,10 @@
 ### こんにちわ！ 👺
 
-<!--
-**YonedaMai/YonedaMai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 私は、前端です。
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- はじめまして！米田米です。
+- 🗻 私は、前端です。
+- 💴 私は、CSSとJAVAとHTML勉強します。
+- 🗾 大阪に住んでいます。
+- 👹 代名詞：彼（かれ）
+- 😋 お気に入り食べ物：寿司が好きです。
+- ⚡ 面白ネタ：ポケモンが好きです。
 -->
